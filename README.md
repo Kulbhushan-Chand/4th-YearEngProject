@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/93779121.svg)](https://zenodo.org/badge/latestdoi/93779121)
 
+[![DOI](https://zenodo.org/badge/93779121.svg)](https://zenodo.org/badge/latestdoi/93779121)
+
 # Fourth-Year Engineering Project
 
 #### Monitoring of Arduino-based PPG and GSR Signals through an Android Device
